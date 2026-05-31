@@ -3,8 +3,7 @@
 
 A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/).
 
-## Features
-#Testing automatic Jenkins trigger - Build #2
+##testing jenkins automatic trigger
 This vulnerable app includes the following capabilities to experiment with:
 * [Exploitable packages](#exploiting-the-vulnerabilities) with known vulnerabilities
 * [Docker Image Scanning](#docker-image-scanning) for base images with known vulnerabilities in system libraries
